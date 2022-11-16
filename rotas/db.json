@@ -1,0 +1,21 @@
+{
+  "espaço gamer":[
+    { "id" : 1, "nome": "Cadeira Gamer Stillus, Robusta, Reclinável Giratória, Vermelha.", "preço" : "R$ 719,91"},
+    { "id" : 2, "nome": "Cadeira Gamer, Fifa Qatar 2022 Checkpoint Brasil Azul - Mt-2000.", "preço" : "R$ 1.529,10"},
+    { "id" : 3, "nome": "Cadeira Gamer Pctop Racer Se1006e C/ Ajuste Classe 3, Apoio P/ Pés - Preto", "preço" : "R$ 1.006,99"},
+    { "id" : 4, "nome": "Cadeira Gamer Eaglex Pro Reclinável Suporta Até 150kg Azul", "preço" : "R$ 887,90"}  
+  ],
+"games":[
+  { "id" : 1, "nome": "Console Sony PlayStation 5 + FIFA 23", "preço" : "R$ 4.319,90"},
+  { "id" : 2, "nome": "Jogo Resident Evil Village - Gold Edition PS5", "preço" : "R$ 279,90"},
+  { "id" : 3, "nome": "Jogo Far Cry Primal Hits PS4", "preço" : "R$ 39,99"},
+  { "id" : 4, "nome": "Jogo God of War Ragnarök, Edição Standard PS4", "preço" : "R$ 263,91"}  
+  ],
+  "conectividade":[
+    { "id" : 1, "nome": "Extensor De Alcance Wi-fi Tp-link Re200 Ac750 - Dual Band 2.4 Ghz E 5 Ghz - Repetidor De Sinal", "preço" : "R$ 255,99"},
+    { "id" : 2, "nome": "Repetidor TP-LINK AC1750 - RE450", "preço" : "R$ 539,99"},
+    { "id" : 3, "nome": "Switch Gigabit de Mesa TP-Link 5 Portas 10/100/1000Mbps - LS1005G", "preço" : "R$ 89,99"},
+    { "id" : 4, "nome": "Cabo LAN Furukawa CAT5E CMX Azul Soho Plus 305m 23200099", "preço" : "R$ 659,99"}  
+  ]
+
+}
